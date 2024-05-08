@@ -66,7 +66,7 @@ module.exports = {
 
         let time8 = "41s";
         setTimeout(function () {
-            msg.edit(`Piratage de ${tohack.displayName} terminé avec succès`);
+            msg.edit(`Piratage de ${tohack.displayName} terminé avec succès !`);
         }, ms(time8));
     },
 };
