@@ -18,7 +18,7 @@ module.exports = {
             if (!msg) return message.reply(`Veuillez écrire le message qui sera envoyé`)
 
             user.send(`${msg}`).then(() => {
-                return message.reply("Le MP à bien été envoyé")
+                return message.reply("Le **MP** à bien été envoyé")
             }).catch(() => {
                 return message.reply("Les MP de l'utilisateur sont fermé ")
             })
