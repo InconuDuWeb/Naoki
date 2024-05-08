@@ -5,7 +5,7 @@ module.exports = {
             owners: 'TON_ID',
             funny: 'TON_ID',
             color: '#FF0000',
-            footer: 'Made by 12ms_',
+            footer: 'By 12ms_',
             maxserver: '5',
             maxVol: '150',
             everyoneMention: false,
