@@ -1,4 +1,4 @@
-const Discord = require("discord.js")
+-const Discord = require("discord.js")
 const config = require("../config")
 const db = require('quick.db')
 const owner = new db.table("Owner")
@@ -24,7 +24,7 @@ module.exports = {
                     activities: [{
                         name: `${str_content}`,
                         type: "WATCHING",
-                        url: "https://www.twitch.tv/nicolas"
+                        url: "https://www.twitch.tv/zedrox_discord"
                     }],
                     status: "online"
                 })
