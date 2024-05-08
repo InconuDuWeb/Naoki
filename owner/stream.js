@@ -24,7 +24,7 @@ module.exports = {
                     activities: [{
                         name: `${str_content}`,
                         type: "STREAMING",
-                        url: "https://www.twitch.tv/002_karma"
+                        url: "https://www.twitch.tv/zedrox_discord"
                     }],
                     status: "online"
                 })
